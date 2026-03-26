@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Pearls",
+  "base_artist": "Sade",
+  "createdAt": "2026-03-26T04:05:14.137083Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Pearl's Girl",
+      "artist": "Underworld",
+      "has_synced": false,
+      "path": "select/01_Pearl's_Girl_Underworld.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Pearl's Dream",
+      "artist": "Bat for Lashes",
+      "has_synced": true,
+      "path": "select/02_Pearl's_Dream_Bat_for_Lashes.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hunting for Pearls (Live)",
+      "artist": "iamamiwhoami",
+      "has_synced": false,
+      "path": "select/03_Hunting_for_Pearls_(Live)_iamamiwhoami.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "A String of Pearls",
+      "artist": "Glenn Miller",
+      "has_synced": false,
+      "path": "select/04_A_String_of_Pearls_Glenn_Miller.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Pearls",
+      "artist": "Sade",
+      "has_synced": true,
+      "path": "select/05_Pearls_Sade.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Casting Pearls Before the Swine",
+      "artist": "Yngwie Malmsteen",
+      "has_synced": false,
+      "path": "select/06_Casting_Pearls_Before_the_Swine_Yngwie_Malmsteen.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Casting Pearls Before the Swine",
+      "artist": "Yngwie J. Malmsteen",
+      "has_synced": false,
+      "path": "select/07_Casting_Pearls_Before_the_Swine_Yngwie_J._Malmsteen.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Diamonds & Pearls",
+      "artist": "Running Wild",
+      "has_synced": false,
+      "path": "select/08_Diamonds_&_Pearls_Running_Wild.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hunting for Pearls",
+      "artist": "iamamiwhoami",
+      "has_synced": true,
+      "path": "select/09_Hunting_for_Pearls_iamamiwhoami.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Diamonds & Pearls",
+      "artist": "Prince & The New Power Generation",
+      "has_synced": false,
+      "path": "select/10_Diamonds_&_Pearls_Prince_&_The_New_Power_Generation.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Diamonds and Pearls",
+      "artist": "Prince & The New Power Generation",
+      "has_synced": true,
+      "path": "select/11_Diamonds_and_Pearls_Prince_&_The_New_Power_Generation.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Diamonds and Pearls",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/12_Diamonds_and_Pearls_Prince.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Diamonds and Pearls (Single Edit)",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/13_Diamonds_and_Pearls_(Single_Edit)_Prince.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Pearls",
+      "artist": "Sade",
+      "has_synced": false,
+      "path": "select/pl_01_Pearls_Sade.txt"
+    }
+  ]
+}
